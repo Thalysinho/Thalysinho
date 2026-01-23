@@ -45,7 +45,7 @@ Também possuo experiência administrativa, o que fortaleceu minhas habilidades 
 ### 🧠 Experiência
 
 **Estagiário de Desenvolvimento Bubble**  
-*CiaSoft — Mar/2025 · Jul/2025*  
+*CiaSoft Aplicativos — Mar/2025 · Jul/2025*  
 - Desenvolvimento de aplicações web e mobile  
 - Criação e integração de APIs  
 - Customizações com JavaScript  
