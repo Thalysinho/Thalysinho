@@ -41,6 +41,7 @@
 **Backend**
 - Node.js
 - JavaScript
+- Kotlin
 - REST APIs
 
 **Frontend**
@@ -49,6 +50,8 @@
 
 **Database**
 - MySQL
+- Firebase
+- MongoDB
 
 **Tools**
 - Git & GitHub  
@@ -138,6 +141,7 @@ I combine technical knowledge with business understanding to create efficient an
 **Backend**
 - Node.js
 - JavaScript
+- Kotlin
 - APIs REST
 
 **Frontend**
@@ -146,6 +150,8 @@ I combine technical knowledge with business understanding to create efficient an
 
 **Banco de Dados**
 - MySQL
+- Firebase
+- MongoDB
 
 **Ferramentas**
 - Git & GitHub  
