@@ -1,202 +1,127 @@
-<h1 align="center">👨🏻‍💻 Thalys Mazzitelli Cotta</h1>
+<h1 align="center">Hi, I'm Thalys Mazzitelli Cotta</h1>
+
+<h3 align="center">
+  Adobe Experience Manager Developer | Java | Node.js | Next.js | TypeScript
+</h3>
 
 <p align="center">
-  <a href="#-english-version">🇺🇸 English</a> | 
-  <a href="#-versao-em-portugues">🇧🇷 Português</a>
+  Building enterprise web solutions, backend integrations and content-driven experiences.
 </p>
-
----
-
-# 🇺🇸 English Version
-
-<h2 id="-english-version" align="center">Backend Developer | Node.js | REST APIs | JavaScript</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Node.js+%7C+JavaScript;Building+APIs+and+Web+Solutions;Focused+on+Scalable+Systems" />
-</p>
-
-<p align="center">
-  🚀 Building APIs, integrations and scalable web solutions  
-  <br/>
-  💼 Open to Backend Developer opportunities
-</p>
-
----
-
-## 🌐 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thalys-cotta/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:thalysm.cotta@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## About Me
 
-**Backend**
-- Node.js
-- JavaScript
-- Kotlin
-- REST APIs
+I am an Information Systems graduate working with enterprise web development, currently focused on **Adobe Experience Manager (AEM)**.
 
-**Frontend**
-- HTML5
-- CSS3
+My experience includes AEM component development, Java and Sling Models, HTL, JCR content structures, Maven builds, authoring configuration and integrations with modern web applications.
 
-**Database**
-- MySQL
-- Firebase
-- MongoDB
+I also work with backend and web development using **Node.js, Express, REST APIs, Next.js, React, TypeScript and Angular**, as well as automated testing, API validation, technical documentation and troubleshooting in corporate environments.
 
-**Tools**
-- Git & GitHub  
-- Power BI  
-- Bubble  
-- FlutterFlow  
+Part of my professional experience is developed in private repositories, so source code and implementation details cannot be published.
 
 ---
 
-## 🧠 About Me
+## Core Stack
 
-Backend-focused developer with hands-on experience building APIs, web applications and integrations.
-
-I combine technical knowledge with business understanding to create efficient and practical solutions.
-
----
-
-## 📌 Featured Projects
-
-- 📚 **Library Loan API** — Node.js + JWT + REST  
-- 📊 **Data Analysis (Python)** — churn insights  
-- 🤖 **Automation with Python** — product registration  
-- 🌐 **Institutional Websites** — responsive UI  
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thalysinho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-EB1000?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Experience Manager"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Technologies
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thalysinho&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thalysinho&theme=tokyonight&hide_border=true"/>
-</p>
+**AEM Development**  
+HTL · Sling Models · JCR · Granite UI · Clientlibs · Maven · OSGi · Content Fragments · GraphQL
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalysinho&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Backend & Web**  
+Java · Node.js · Express · REST APIs · JavaScript · TypeScript · Next.js · React · Angular · HTML · CSS
 
----
+**Testing & Quality**  
+Unit Testing · Integration Testing · Jest · API Validation · Code Review · Technical Documentation
 
-## 📈 Activity
+**Tools & Workflow**  
+Git · GitHub · Bitbucket · Jira · Postman · Docker · Figma · Linux · Visual Studio Code
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thalysinho&theme=tokyo-night&hide_border=true"/>
-</p>
+**Databases**  
+PostgreSQL · MySQL · Firebase
 
----
-
-# 🇧🇷 Versão em Português
-
-<h2 id="-versao-em-portugues" align="center">Desenvolvedor Backend | Node.js | APIs REST | JavaScript</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+%7C+Node.js+%7C+JavaScript;Desenvolvimento+de+APIs+e+Integra%C3%A7%C3%B5es;Foco+em+Solu%C3%A7%C3%B5es+Escal%C3%A1veis" />
-</p>
-
-<p align="center">
-  🚀 Construindo APIs, integrações e soluções web escaláveis  
-  <br/>
-  💼 Aberto a oportunidades como Desenvolvedor Backend
-</p>
+**Additional Knowledge**  
+Python · Kotlin · Power BI · Bubble · FlutterFlow
 
 ---
 
-## 🌐 Contato
+## Professional Focus
+
+- Developing and maintaining AEM components and content-driven solutions
+- Implementing backend logic with Java, Sling Models, Node.js and REST APIs
+- Working with Maven-based AEM projects, builds, packages and local environments
+- Integrating AEM content with Next.js, React and TypeScript applications
+- Creating and maintaining automated tests and validating application flows
+- Troubleshooting APIs, authentication flows, internal endpoints and corporate proxy environments
+- Managing development tasks and technical documentation with Jira
+- Working with branches, pull requests and collaborative workflows on GitHub and Bitbucket
+- Reading Figma specifications and extracting layouts, styles and assets for implementation
+
+---
+
+## Featured Projects
+
+### [CNPJ Validator BR](https://github.com/Thalysinho/cnpj-validator-br)
+
+Node.js library for cleaning, formatting and validating Brazilian CNPJ numbers, including support for the new alphanumeric format.
+
+`Node.js` `JavaScript` `Validation` `NPM`
+
+### [Library Loan API](https://github.com/Thalysinho/API-emprestimo-de-livros)
+
+REST API built with Node.js and Express, featuring JWT authentication, password hashing, middleware-based error handling and loan business rules.
+
+`Node.js` `Express` `JWT` `REST API`
+
+### [GeoLocalization](https://github.com/Thalysinho/GeoLocalization)
+
+Android application developed with Kotlin, Firebase Firestore, geolocation services and Material Design components.
+
+`Kotlin` `Android` `Firebase` `Geolocation`
+
+### [Data Analysis with Python](https://github.com/Thalysinho/Analisando-Dados-com-Python)
+
+Data analysis project focused on extracting business insights and understanding customer churn behavior.
+
+`Python` `Data Analysis` `Business Intelligence`
+
+---
+
+## Education
+
+**Bachelor's Degree in Information Systems**  
+Universidade Santa Cecília — Completed in December 2025
+
+---
+
+## Languages
+
+- Portuguese — Native
+- English — Intermediate
+- Spanish — Intermediate
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thalys-cotta/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:thalysm.cotta@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🚀 Tecnologias
-
-**Backend**
-- Node.js
-- JavaScript
-- Kotlin
-- APIs REST
-
-**Frontend**
-- HTML5
-- CSS3
-
-**Banco de Dados**
-- MySQL
-- Firebase
-- MongoDB
-
-**Ferramentas**
-- Git & GitHub  
-- Power BI  
-- Bubble  
-- FlutterFlow  
-
----
-
-## 🧠 Sobre mim
-
-Desenvolvedor com foco em backend, com experiência prática na construção de APIs, aplicações web e integrações.
-
-Uno conhecimento técnico com visão de negócio para desenvolver soluções eficientes e aplicáveis.
-
----
-
-## 📌 Projetos em Destaque
-
-- 📚 **API de Empréstimo de Livros** — Node.js + JWT + REST  
-- 📊 **Análise de Dados com Python** — insights de churn  
-- 🤖 **Automação com Python** — cadastro de produtos  
-- 🌐 **Sites Institucionais** — UI responsiva  
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thalysinho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-</p>
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thalysinho&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thalysinho&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thalysinho&theme=tokyo-night&hide_border=true"/>
+  <strong>AEM, backend, integrations and maintainable web solutions.</strong>
 </p>
